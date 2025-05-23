@@ -21,3 +21,8 @@ The game focuses on discovery, interaction, and navigating various atmospheric a
 - **Mouse**: Look around
 - **E**: Pick up items (potions, weapons)
 - **A** (or **Q** on QWERTY keyboards): Open doors or chests
+
+## 🌐 Play Online
+
+You can play the game directly in your browser via this link:  
+👉 [https://wholivesonmars.github.io/jeu-unity/](https://wholivesonmars.github.io/jeu-unity/)
